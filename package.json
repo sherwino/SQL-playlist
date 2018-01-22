@@ -1,0 +1,23 @@
+{
+  "name": "sql-playlist",
+  "version": "1.0.0",
+  "description": "just learning how to connect sql to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherwino/SQL-playlist.git"
+  },
+  "keywords": [
+    "Node",
+    "mySQL"
+  ],
+  "author": "Sherwino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sherwino/SQL-playlist/issues"
+  },
+  "homepage": "https://github.com/sherwino/SQL-playlist#readme"
+}

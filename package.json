@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sherwino/SQL-playlist/issues"
   },
-  "homepage": "https://github.com/sherwino/SQL-playlist#readme"
+  "homepage": "https://github.com/sherwino/SQL-playlist#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
